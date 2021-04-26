@@ -26,5 +26,3 @@ $ sudo chmod +x build.sh
 # Execute o script:
 $ sudo ./build.sh
 ```
-
-https://img.shields.io/docker/v/portainer/agent?style=for-the-badge

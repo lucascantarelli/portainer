@@ -4,10 +4,25 @@
 </p>
 
 # Portainer - Docker WebUI.
-<p align="justify"> Stack Portainer Web e Agent em Docker Swarm </p>
 
+<p align="justify"> Stack Portainer Web e Agent em Docker Swarm. </p>
 
+## Instalação
+```bash
+# Clone o Repositório:
+$ git clone https://github.com/lucascantarelli/portainer.git
 
-- <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
-- <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)</a>
-- <a href="https://docs.docker.com/get-started/swarm-deploy/">![Swarm](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)</a>
+# Entre na pasta:
+$ cd portainer
+
+# De permissão de execução ao script:
+$ sudo chmod +x build.sh
+
+# Execute o script:
+$ sudo ./build.sh
+```
+
+##### O Que encontramos aqui: 
+* <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
+* <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)</a>
+* <a href="https://docs.docker.com/get-started/swarm-deploy/">![Swarm](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)</a>

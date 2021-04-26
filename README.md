@@ -4,8 +4,9 @@
 </p>
 
 # Portainer - Docker WebUI.
-
 <p align="justify"> Stack Portainer Web e Agent em Docker Swarm. </p>
+
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Instalação
 ```bash
@@ -22,7 +23,3 @@ $ sudo chmod +x build.sh
 $ sudo ./build.sh
 ```
 
-##### O Que encontramos aqui: 
-* <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
-* <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)</a>
-* <a href="https://docs.docker.com/get-started/swarm-deploy/">![Swarm](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)</a>

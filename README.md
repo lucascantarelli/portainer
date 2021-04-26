@@ -6,8 +6,10 @@
 # Portainer - Docker WebUI.
 <p align="justify"> Stack Portainer Web e Agent em Docker Swarm. </p>
 
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://www.docker.com/">![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)</a>
 
+## Imagens
+Agent - ![Portainer Agent](https://img.shields.io/docker/v/portainer/agent?arch=amd64&label=Agent&style=plastic?link=http://left&link=https://hub.docker.com/r/portainer/portainer)
 ## Instalação
 ```bash
 # Clone o Repositório:

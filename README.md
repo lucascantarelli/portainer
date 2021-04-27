@@ -26,3 +26,5 @@ $ sudo chmod +x build.sh
 # Execute o script:
 $ sudo ./build.sh
 ```
+## Finalizado
+![Capturar](https://user-images.githubusercontent.com/15838096/116319825-92336080-a78d-11eb-8e03-324a650be2c9.PNG)
